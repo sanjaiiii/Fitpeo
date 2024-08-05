@@ -1,0 +1,32 @@
+Dear Fitpeo Team,
+
+I hope you are doing well.
+
+I have completed the assessment for the automation tester position. Below are the details for setting up and running my automation script:
+
+Development Environment:
+
+IDE: Eclipse
+Project Type: Maven
+Dependencies: selenium-java
+Setup Instructions:
+
+Download the provided source code files.
+Open Eclipse IDE.
+Import the Maven project into Eclipse:
+Go to File -> Import -> Maven -> Existing Maven Projects.
+Browse to the directory where you downloaded the source code files and select it.
+Complete the import process.
+Ensure that the necessary dependencies (such as selenium-java) are downloaded automatically by Maven.
+Run the test script:
+Right-click on the test class containing the main method.
+Select Run As -> Java Application.
+I apologize for the delay in submitting this assessment. The email mentioned a deadline of August 3, 2024, but I only saw the email this morning. I appreciate your understanding and consideration.
+
+Please let me know if you have any questions or need further information.
+
+Thank you for the opportunity.
+
+Best regards,
+Sanjay
+M:+91 9790353819
